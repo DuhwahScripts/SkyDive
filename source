@@ -1,4 +1,4 @@
-local A_Number = 10000000000 --// This would be the cash you receive
+local A_Number = 500000 --// This would be the cash you receive
 local B_Number = 500 --// Idk wtf this shit is
 
 local OldNamecall
